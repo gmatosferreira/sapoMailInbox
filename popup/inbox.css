@@ -1,0 +1,10 @@
+
+.hidden {
+  display: none;
+}
+
+#popup-content iframe{
+  width:260px!important;
+  height: 370px!important;
+  border:none;
+}
