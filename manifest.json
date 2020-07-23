@@ -2,7 +2,7 @@
 
   "manifest_version": 2,
   "name": "Caixa de Entrada | Sapo Mail",
-  "version": "0.1",
+  "version": "0.2",
 
   "description": "Consulte os últimos emails que chegaram ao seu Sapo Mail comodamente através de um pop-up na barra de ferramentas do seu navegador.",
   "homepage_url": "https://github.com/gmatosferreira/",
